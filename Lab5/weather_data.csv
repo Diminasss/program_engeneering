@@ -1,0 +1,2 @@
+base,visibility,dt,timezone,id,name,cod,units,coord.lon,coord.lat,main.temp,main.feels_like,main.temp_min,main.temp_max,main.pressure,main.humidity,main.sea_level,main.grnd_level,wind.speed,wind.deg,wind.gust,rain.1h,clouds.all,sys.country,sys.sunrise,sys.sunset,weather.id,weather.main,weather.description,weather.icon
+stations,6837,1745142135,25200,1506073,Гурьевск,200,metric,85.9333,54.2833,1.96,-4.66,1.96,1.96,1012,54,1012,984,10.77,209,21.74,0.38,100,RU,1745103791,1745155609,500,Rain,небольшой дождь,10d
